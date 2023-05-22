@@ -1,6 +1,6 @@
 {
   "name": "@julija9531/package-ajs",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "webpack": "^5.83.1",
     "webpack-cli": "^5.1.1"
   },
+  "homepage": "https://github.com/julija9531/package-ajs",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
